@@ -1,0 +1,94 @@
+﻿body {
+    background-color: #cccccc;
+    font-family: 'Segoe UI', Verdana;
+}
+
+.login_btn {
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: #152347;
+    cursor: pointer;
+    color: #fefefe;
+}
+
+.cancel_btn {
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: indianred;
+    cursor: pointer;
+    color: #fefefe;
+}
+
+.textbox_hidden, input, select {
+    width: 200px;
+    border: 1px solid #333;
+    padding: 5px;
+    height: 25px;
+}
+
+.message {
+    display: none;
+    text-align: center;
+}
+
+.pass_req {
+    color: #333;
+    font-size: 12px;
+}
+
+.label_change_create td:first-child label {
+    color: #333;
+    font-size: 13px;
+}
+
+.no_match {
+    color: indianred;
+}
+
+.more_width {
+    width: 600px !important;
+}
+
+.border {
+    background-color: #fefefe;
+    padding: 30px;
+    margin: 150px auto auto auto;
+    width: 350px;
+    border-radius: 2px;
+    box-shadow: 10px 10px 20px #333;
+}
+
+.hide {
+    display: none;
+}
+
+.very_top {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 100%;
+    text-align: right;
+    padding: 20px;
+}
+
+.red {
+    color: indianred;
+}
+
+.login_tbl {
+    margin: 10px auto auto auto;
+}
+.login_tbl td {
+    padding: 10px;
+}
+
+.link {
+    color: #333;
+    text-decoration: none;
+}
+
+label {
+    color: #333;
+}
